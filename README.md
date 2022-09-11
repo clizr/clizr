@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning the above items.
 - 🧧 Now,I'm working the Litek & OceanYo,served as Leaking Officer.<br>
 - 🧊 And is one Senior High School Student,in Grade 10（Grade 1）.
-- :atom: I on Website: [xwtlt.github.io](xwtlt.github.io). and [LesePaper](p.licn.eu.org).
+- :atom: I on Website: [xwtlt.github.io](http://xwtlt.github.io). and [LesePaper](http://p.licn.eu.org).
 - 📫 How to reach me : send email at [cnlizerui@gmail.com](mailto:cnlizerui@gmail.com) or [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
 
