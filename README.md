@@ -9,6 +9,6 @@
 - 🧊 And is one Senior High School Student, in Grade 10（Grade 1）.
 - :atom: I on Website: [xwtlt.github.io](http://xwtlt.github.io). and [LesePaper](http://p.licn.eu.org). That can Learn more about me.
 - 💰 Donate me? You can view the I on afdian.net.
-- 📫 How to reach me : send email at [cnlizerui@gmail.com](mailto:cnlizerui@gmail.com) or [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
+- 📫 How to reach me : send email at [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
 
