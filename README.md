@@ -2,7 +2,8 @@
 
 ## :dog: Introduction
 
-	<img src="https://img.shields.io/badge/gitHub-xiaoLi＆xiaoZhang-brightgreen" />
+<img src="https://img.shields.io/badge/ThereAre-xiaoLi＆xiaoZhang-brightgreen" />
+
 - 🔨 I'm **Xiaoli**, a **Chinese**, now liveing Taipei.
 - 👀 I’m **interested** in...Design, Code(HTML/php/TS/C#), Chinese, Geography, Games(U3D/UE), Videos(AE/Pr/VG).
 - 🌱 I’m **currently learning** the above items.
@@ -12,4 +13,4 @@
 - 💰 **Donate me**? You can view the I on afdian.net.
 - 📫 **How to reach me** : send email at [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xwtlt&count_private=true&show_icons=true&theme=radical" />
