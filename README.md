@@ -14,4 +14,4 @@
 - 📫 **How to reach me** : send email at [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
 ![xwtlt's GitHub](https://github-readme-stats.vercel.app/api?username=xwtlt&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwtlt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwtlt&layout=compact&theme=radical)
