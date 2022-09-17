@@ -13,4 +13,6 @@
 - 💰 **Donate me**? You can view the I on afdian.net.
 - 📫 **How to reach me** : send email at [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xwtlt&count_private=true&show_icons=true&theme=radical" />
+[![xwtlt's GitHub](https://github-readme-stats.vercel.app/api?username=xwtlt&count_private=true&show_icons=true&theme=radical)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwtlt&layout=compact)]
