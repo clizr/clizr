@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/ThereAre-xiaoLi＆xiaoZhang-brightgreen" />
 
-- 🔨 I'm **LiZerui**, a Chinese, now liveing Hangzhou, Zhejiang.
+- 🔨 I'm **xiaoLi**, a Chinese, now liveing Hangzhou, Zhejiang.
 - 👀 I’m **interested** in...UI/UX Design, Code, Games, Videos.
 - 🌱 I’m **currently learning** the above items.
 - 🧧 Now, I'm **working** the Litek & OceanYo, served as Leaking Officer. [doge]<br>
@@ -12,7 +12,7 @@
 - 📫 **How to reach me**? send email at [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
 <a href="https://github.com/xwtlt">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xwtlt&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=clizr&show_icons=true&theme=radical" />
 </a>
 
 #### Skills
