@@ -12,7 +12,7 @@
 - 📫 **How to reach me**? send email at [xunwtlt@petalmail.com](mailto:xunwtlt@petalmail.com).
 
 <a href="https://github.com/xwtlt">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=clizr&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xwtlt&show_icons=true&theme=radical" />
 </a>
 
 #### Skills
